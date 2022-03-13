@@ -1,0 +1,22 @@
+.styledFont {
+    text-align: center;
+    color: rgb(129, 207, 231)
+    border: .8em darkviolet;
+  font: 900 1.2em sans-serif;
+  text-decoration: underline;
+}
+.cool {
+    color:orange; 
+    font-size:10vw;
+    thicker: 9px;
+}
+#Gabrielle {
+    text-align: center;
+    color: green;
+  }
+  #styledImage {
+   background-color: blue;
+   border-style:solid;
+   border-color: orange;
+   border-width: 25px; 
+  }
